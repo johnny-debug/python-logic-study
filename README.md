@@ -56,9 +56,9 @@ Abaixo está uma seção organizada onde serão listados os projetos ou exercíc
 
 ## Atualizações Futuras
 
-- [ ] Adicionar novos desafios de programação.
-- [ ] Implementar projetos de maior complexidade.
-- [ ] Documentar soluções com exemplos de código.
+- [ ] Adicionar novos desafios de programação;
+- [ ] Implementar projetos de maior complexidade;
+- [ ] Documentar soluções com exemplos de código;
 - [ ] Inserir testes unitários para validação de soluções.
 
 ---
